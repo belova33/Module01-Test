@@ -1,0 +1,32 @@
+h1 {
+    color: #ffffff;
+    background-color: blueviolet;
+}
+
+p {
+    color: rgb(253, 211, 240);
+    background-color: darkmagenta;
+}
+
+ul {
+    color: rgba(250, 4, 4, 0.712);
+}
+
+hr {
+    border: none; /* Убираем границу для браузера Firefox */
+    color: red; /* Цвет линии для остальных браузеров */
+    background-color: red; /* Цвет линии для браузера Firefox и Opera */
+    height: 2px; /* Толщина линии */
+}
+
+ol {
+    color: #00af17;
+}
+
+a {
+    text-decoration-color: #f7ea33;
+}
+
+q {
+    color:rgba(246, 250, 4, 0.712)
+}
